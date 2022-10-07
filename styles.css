@@ -1,0 +1,30 @@
+.menu{
+    display: flex;
+}
+
+.img-instagram{
+    width: 11%;
+}
+
+.btn-primary{
+    background-color: #308755 !important;
+    border-color: #308755 !important;
+}
+
+a.dropdown-item:nth-child(5) {
+    color: indianred;
+    }
+
+.dropdown {
+    background-color: gray;
+    border-radius: 5px;
+}
+
+.fa-solid {
+    color: #fff;
+}
+
+
+div.container{
+    margin-top: 2%;
+    }
