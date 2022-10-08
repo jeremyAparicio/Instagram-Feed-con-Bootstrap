@@ -24,6 +24,9 @@ a.dropdown-item:nth-child(5) {
     color: #fff;
 }
 
+.nav-tabs {
+    justify-content: center;
+    }
 
 div.container{
     margin-top: 2%;
