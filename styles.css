@@ -6,6 +6,14 @@
     width: 11%;
 }
 
+.navbar-space{
+    justify-content: space-between;
+}
+
+ul.navbar-nav:nth-child(1) {
+    padding-left: 10%;
+    }
+
 .btn-primary{
     background-color: #308755 !important;
     border-color: #308755 !important;
@@ -31,3 +39,9 @@ a.dropdown-item:nth-child(5) {
 div.container{
     margin-top: 2%;
     }
+
+@media screen and (min-width: 1919px){
+    ul.navbar-nav:nth-child(1) {
+        padding-left: 60%;
+    }
+}
